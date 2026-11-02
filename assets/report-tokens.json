@@ -1,0 +1,52 @@
+{
+  "canvas": {
+    "width": 1280,
+    "height": 720,
+    "ratio": "16:9"
+  },
+  "geometry": {
+    "left": 48,
+    "right": 48,
+    "titleTop": 28,
+    "ruleTop": 94,
+    "takeawayTop": 111,
+    "contentWidth": 1184,
+    "bodyTop": "subtitleBottom + max(0, 210-subtitleBottom)/2",
+    "footerReserve": 24,
+    "pageNumber": {
+      "right": 24,
+      "bottom": 7
+    }
+  },
+  "html": {
+    "title": 44,
+    "takeaway": 32,
+    "moduleTitle": 28,
+    "body": 22,
+    "table": 20,
+    "regular": "TencentSans W3",
+    "bold": "TencentSans W7"
+  },
+  "pptx": {
+    "title": 28,
+    "takeaway": 20,
+    "moduleTitle": 16,
+    "body": 14,
+    "table": 12,
+    "regular": "TencentSans W3",
+    "bold": "TencentSans W7",
+    "units": "pt"
+  },
+  "timer": {
+    "minutes": 60,
+    "fontWeight": 700,
+    "fontSize": 22,
+    "normalColor": "#000000",
+    "background": "transparent",
+    "hideOnCover": true,
+    "continueOutsidePresentation": true,
+    "warningGapPercentagePoints": 15,
+    "pulseSeconds": 1.8,
+    "whitePageBackground": "rgba(255,255,255,.94)"
+  }
+}

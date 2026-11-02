@@ -1,0 +1,23 @@
+/* Fixed-canvas role typography. Relative URLs resolve from this CSS file. */
+@font-face{font-family:PresentTCTencent;src:url('./fonts/Tencent-W3.woff2') format('woff2');font-weight:400;font-style:normal;font-display:swap}
+@font-face{font-family:PresentTCTencent;src:url('./fonts/Tencent-W7.woff2') format('woff2');font-weight:700;font-style:normal;font-display:swap}
+.tc-slide{font-family:PresentTCTencent,sans-serif;font-weight:400;font-synthesis:none}
+.tc-slide[data-language="en"],.tc-slide [lang="en"]{font-family:Arial,sans-serif}
+.tc-slide strong,.tc-slide b{font-weight:700}
+.tc-slide .tc-title{font-size:44px;line-height:1.2;font-weight:700;margin:0;letter-spacing:normal}
+.tc-slide[data-language="en"] .tc-title{font-size:42px;line-height:1.2}
+.tc-slide .tc-takeaway{font-size:32px;line-height:1.3;font-weight:700;margin:0;letter-spacing:normal}
+.tc-slide[data-language="en"] .tc-takeaway{font-size:30px;line-height:1.3}
+.tc-slide .tc-module-title{font-size:28px;line-height:1.25;font-weight:700;margin:0;letter-spacing:normal}
+.tc-slide[data-language="en"] .tc-module-title{font-size:28px;line-height:1.25}
+.tc-slide .tc-body{font-size:22px;line-height:1.4;font-weight:400;margin:0;letter-spacing:normal}
+.tc-slide[data-language="en"] .tc-body{font-size:22px;line-height:1.4}
+.tc-slide .tc-table{font-size:20px;line-height:1.4;font-weight:400;margin:0;letter-spacing:normal}
+.tc-slide[data-language="en"] .tc-table{font-size:19px;line-height:1.4}
+.tc-slide .tc-caption{font-size:16px;line-height:1.4;font-weight:400;margin:0;letter-spacing:normal}
+.tc-slide[data-language="en"] .tc-caption{font-size:17px;line-height:1.4}
+.tc-slide .tc-kpi{font-size:48px;line-height:1.12;font-weight:700;margin:0;letter-spacing:normal}
+.tc-slide[data-language="en"] .tc-kpi{font-size:48px;line-height:1.12}
+.tc-slide .tc-step-number{font-size:80px;line-height:1;font-weight:700;margin:0;letter-spacing:normal}
+.tc-slide[data-language="en"] .tc-step-number{font-size:80px;line-height:1}
+.tc-slide[data-language="en"] .tc-title{letter-spacing:-.6px}

@@ -1,0 +1,37 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+.knot/
+.local/
+.qa/
+outputs/
+dist/
+private/
+local-assets/
+*.pptx
+*.pptm
+*.potx
+*.pdf
+*.ttf
+*.otf
+*.woff
+*.woff2
+*.zip
+*.tar.gz
+*.log
+
+# Include the complete presentation bundle in this repository.
+!/assets/present-tc/**/*.pptx
+!/assets/present-tc/**/*.woff2
+
+# Personal notes; keep locally, never include in the public skill.
+/AI-progress.txt

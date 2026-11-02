@@ -1,0 +1,214 @@
+current_page	original_page	stable_id	family	observed_slots	layout_and_variant	selection_hint
+1	26	tc-026	concept-framework	4 quadrants;4 callouts	中央等距菱形四象限加叠层，四周四说明框	竞争/战略四种选择；立体厚度不得当数值
+2	27	tc-027	hub-spoke	5 satellites	中央图片及酒红环，外侧五个标题+说明+图标气泡	一个主题的五种应用/支撑要素
+3	28	tc-028	many-to-one	4 right inputs;1 left summary	中间大主题圆，右四个输入框箭头向左汇入，左边总结框	四项证据归纳为研究结论
+4	29	tc-029	parallel-cards	5 cards	横排五个图标卡，下方横向总结句	五项并列举措或能力
+5	30	tc-030	parallel-cards	3 circles	三个大型圆环并列，各含图标标题和要点，下方总括横条	三大支柱/战略重点；圆面积不编码数据
+6	31	tc-031	before-after-achievements	2 states;4 results	顶部From-To双状态，底部左大图标、右四条编号成果弧线	转型前后概述及四项成果
+7	32	tc-032	process	4 stages;5 working columns	顶部四阶段箭头，内部五列输入/分析/产出，底部工作方法箭头	战略制定方法论；需要明确阶段与活动映射
+8	33	tc-033	governance	4 roles	左四角色组织连接图，右四行职责说明	项目治理/委员会与执行团队职责
+9	34	tc-034	mixed-dashboard	3 columns;3 projects×3 years	左KPI与柱图，中项目年度表，右甜甜圈与消费者要点	市场全景综合页；信息密度高，适合阅读
+10	35	tc-035	entity-comparison	2 entities;2 time points	左上下两实体的前后指标，右两张地图卡+指标+份额	两业务/机构跨期比较
+11	36	tc-036	risk-matrix	4 risk items	左风险坐标图，中四风险框，右对应缓释文字	风险位置与应对；图上标签与应对需逐项对应
+12	37	tc-037	mixed-dashboard	5 categories;3 drivers	左KPI+五类堆叠柱，右三项驱动+结论	市场机会及关键驱动；避免把堆叠柱当瀑布
+13	38	tc-038	comparison-table	4 entities;3 capability columns	左公司简介，中能力勾选矩阵，右最新动态	竞争对手能力和动态比较
+14	39	tc-039	segmentation	3 personas;1 radar	左人物轮廓/雷达/洞察，右三类客群纵向画像	三类客户特征、购买行为比较
+15	40	tc-040	initiative-impact	3 impact columns;4 side icons	左现状机会纵栏，右公司概况及三列跨业务影响	一个机会对三条业务线的影响
+16	41	tc-041	distribution-dashboard	3 distributions;6 mini-panels	左三条横向分布曲线，右2×3小图/地图/甜甜圈	产品分布与相关多指标解读；不同量纲须清楚
+17	42	tc-042	trend-with-table	2 trend charts;3 table rows	左上市场文字、左下双趋势，右三行分析表	趋势图辅以分项业务说明
+18	43	tc-043	trend-with-table	2 trend charts;3 table rows	第17页镜像重排：左表、右上双趋势及数字、右下市场文字	表格更重要时优先该变体
+19	44	tc-044	sentiment-dashboard	2 periods;3 segments;6 rings	左两年三段堆叠柱，右六个比例环，下方两项摘要	情绪结构变化及关注/担忧主题
+20	45	tc-045	capital-comparison	2 entities×2 periods	左右两个实体各两年堆叠柱，右侧金额摘要	资本构成的跨期/跨主体比较
+21	46	tc-046	regional-kpi	4 regions	四个竖栏分别为要点+两KPI+单柱，浅色列线	四地区同口径业绩比较，白底
+22	47	tc-047	regional-kpi	4 regions	与第21页同框架，交替浅色列底	与21同信息结构，靠底色强化分组
+23	48	tc-048	trend-dashboard	5 periods;4 metric rows;5 narratives	左五期的销售/利润/比率/资产图阵列，右五段解释	多指标同周期趋势与原因
+24	49	tc-049	mixed-dashboard	2 periods;2 right sections;3×3 tiles	左堆叠柱与地图，中央四KPI，右两结论及九小卡	量化概览与多对象快照；非常高密度
+25	50	tc-050	mixed-dashboard	2 periods;5 action rows	左图和KPI沿用49，右五条带图标的说明框	同一量化概览需要五项行动解释
+26	51	tc-051	implementation-plan	4 operating elements;2 phases	左门店照片及周围四项运营要素，右两阶段渠道计划	零售/空间原型到实施渠道的计划
+27	52	tc-052	geo-scatter-dashboard	3 regions;4 survey groups;1 scatter	左中国地图+区域条形表+问卷柱，右散点及KPI	空间分布与门店绩效关系，需要真实地理与散点数据
+28	53	tc-053	risk-matrix	5 risks;5 responses	左概率×严重性背景矩阵五条风险，右五行缓释	风险排序与对应措施；区块背景非精确边界
+29	54	tc-054	share-trend	5 periods;4 components	左100%堆叠面积图，右上下两结论含地图/大比例	组成份额随时间变化；同一期合计100%
+30	55	tc-055	mixed-dashboard	3 KPI groups;2 paired charts;1 bridge	左三组双指标，右上两个两期柱对比，右下桥接图	资产管理指标及变动来源，图表量纲可不同但需分栏注明
+31	56	tc-056	strategy-results	3 drivers;2 periods×4 segments	左三条战略因素汇聚到中心图标，右两期100%堆叠柱及四数字	商业模式驱动和结构结果关联；关联不自动代表因果
+32	57	tc-057	trend-with-kpi	9 periods;4 explanation groups	左大指标和比例，中九期下降柱，右四组业务说明	单指标多年变化与摘要；突出整体趋势
+33	58	tc-058	trend-with-kpi	9 periods;4 explanation groups	与32同结构，2019柱上增加Track Point标注	需要明确指出趋势转折期
+34	59	tc-059	metric-list	6 rows;3 map-side points	左六个进度环+产品值+箭头说明，右地图上三项总结	六产品销售快照或六指标表现
+35	60	tc-060	paired-small-multiples	5 metrics×2 periods	横排五组两期柱，每组大数字覆盖中部	五指标同比比较；各组可独立尺度需明示
+36	61	tc-061	waterfall	6 columns;6 summary KPIs	左六项大数字，右六列增减桥接图	起点到终点的金额变动解释
+37	62	tc-062	mixed-dashboard	2 grouped charts;1 ranking;4-column table	左上下两组多年分组柱，右上六项排序柱、右下财务表	多证据业务概览，适合详细阅读
+38	63	tc-063	solution-matrix	4 solutions×3 levels	四列方案，横向Overview/Detail/Impact三层，混用漏斗/面积/环	四方案从概述到细节到影响的比较
+39	64	tc-064	geo-flow	3 flow labels;3 bars;5 market groups	右世界地图及跨区弧线，左上下两柱图	跨区域客户/资金流向与市场覆盖
+40	65	tc-065	geo-flow	3 flow labels;3 bars;5 market groups	与39同布局，地图标签由薄荷绿换为酒红	同39，仅强调色变体
+41	66	tc-066	regional-overview	3 columns;4 comparison bars	左区域地图+要点，中机会图，右奖项及重点事项	区域市场概览；三栏等权略偏右
+42	67	tc-067	regional-overview	3 columns;4 comparison bars	与41同结构，中间图稍下移及宽度变化	同族排版变体，不构成新分析框架
+43	68	tc-068	timeline-to-present	3 historical dates;4 current groups	左三张图及纵向里程碑，右当前四能力组与团队概述	公司演变与现状业务组合
+44	69	tc-069	segmentation-trend	3 years;3 price bands;6 age bands	左三年价格分层柱，右年龄层堆叠面积，下方行为矩阵和洞察	价格/年龄细分的时间变化
+45	70	tc-070	channel-analysis	2 rings;2-year stacked bars;channel comparison	上半渠道接触频次柱+时间环，下半购买渠道结构柱+终端环，右洞察	认知渠道与购买渠道的差异
+46	71	tc-071	needs-evolution	2 periods;3 needs rows;3 rings	左前后需求堆叠柱和三环，右Past/Now三行表及洞察	客户需求升级的前后比较
+47	72	tc-072	strategy-evaluation	4 options×5 criteria;6 process boxes	上方四方案五维圆点评分，右引语，下方业务链条与洞察	投资/进入模式的定性比较和控制范围
+48	73	tc-073	channel-evaluation	4 concerns;3 app types;5 channels×4 criteria	上方两组关注点条形图和应用类别，下方渠道树+评分矩阵	按客户关切选择售后渠道
+49	74	tc-074	competitive-action	3 brands×5 criteria;3 tech columns;3 actions	上方品牌五维点阵评分+三技术机会表，下方三列策略	竞争差距转成三类行动，酒红标题
+50	75	tc-075	competitive-action	3 brands×5 criteria;3 tech columns;3 actions	与49相同，技术表头灰、下方行动标签薄荷绿	49的强调色变体
+51	76	tc-076	mixed-dashboard	3 columns;radar;journey;7 periods	左雷达及指标，中循环客户旅程，右七期堆叠柱与四说明框	三个方面的市场综合判断；高密度阅读页
+52	77	tc-077	crm-framework	3 columns;4-quadrant map;3 pyramid levels	左成本价值象限，中客群金字塔，右线上线下路径	CRM触点、客户升级及渠道路径的组合
+53	78	tc-078	market-channel-trend	8 timeline bars;2 channel charts;8 table rows	左历史+预测总量柱及CAGR，右双横向增长图和渠道表	总市场与线上/数字渠道的增长差异
+54	79	tc-079	problem-solution-system	3 problems;2 methods;2×3 system methods	左问题清单和两种方法，右线上/线下双系统逻辑图	先解释问题，再比较解决方法及系统关系
+55	80	tc-080	strategy-horizon	2 horizons×3 strategies;4 model cells;2 charts	左短期/长期策略矩阵及2×2模式，右双柱图和四类行动	短长期销售模式建议，薄荷绿边框
+56	81	tc-081	strategy-horizon	2 horizons×3 strategies;4 model cells;2 charts	与55同结构，左框改酒红并用虚线强调下方模式	55的强调色变体
+57	82	tc-082	process-loop	3 named domains;loop annotations	服务渠道/管理/维修三栏内环绕流程，配设备和人物图	闭环工作流/服务复盘；不适合精确时长
+58	83	tc-083	waterfall	4 summary KPIs;multi-step bridge;2 horizons	左四KPI，右多步骤利润桥接，下方短期/长期两段说明	增长贡献分解，薄荷绿强调
+59	84	tc-084	waterfall	4 summary KPIs;multi-step bridge;2 horizons	与58同结构，顶部利润箭头和主强调改酒红	58的强调色变体
+60	85	tc-085	system-architecture	4 horizontal layers;2 crosscut columns;3 criteria	左用户/业务/模型/源系统分层，安全与集成纵贯，右三评价标准	数据平台架构及建设原则
+61	86	tc-086	process	4 stages;2 bottom summaries	顶部四段箭头，下方交错文字与四人物插画，折线连接	四阶段分析/实施流程，插画版
+62	87	tc-087	process	4 stages;2 bottom summaries	与61同结构，人物插画替换为时钟/火箭/地球/靶标图标	四阶段流程，图标版
+63	88	tc-088	journey	4 phases;10 numbered milestones	上方四阶段十节点，下方正负体验折线与情绪图标	客户旅程、体验痛点及关键触点
+64	89	tc-089	linked-cycles	3 cycles;2 bottom explanation panels	上方Discovery/Delivery/Operations三个闭环，下方双说明及2X中心环	端到端流程及效率改善逻辑
+65	90	tc-090	workforce-skills	3 impact columns;6 skill bars;1 hero KPI	左90%大指标，右上三列影响/技能表，下六条技能排序	技能转型需求与重点能力
+66	91	tc-091	overlap-map	4 regions on 2 axes	二维数据类型/模态坐标，四个半透明重叠椭圆，底部四图例	概念范围交叉和类别定位；区域不是精确量值
+67	92	tc-092	overlap-map	4 regions on 2 axes	与66同布局，椭圆阴影更明显	66的阴影变体，非新增关系
+68	93	tc-093	three-pillar	3 pillars;1 context column	左段落，右中央三角三面及三个外侧说明组	三个支撑方向与背景解释；三角面积不代表份额
+69	94	tc-094	risk-matrix	8 mapped risks;4 response rows	左三档严重性×可能性热区含八点，右前四风险及解决办法	重点风险筛选；需说明其余四点为何未展开
+70	95	tc-095	growth-driver-dashboard	8 total bars;4 locations;3 tiers×7 years	左总量趋势和城市柱，右三类城市堆叠面积与洞察	整体增长、竞争格局、增长来源
+71	96	tc-096	market-comparison	2 brands;6 cities×3 components;demand/supply pair	左双品牌散点示意，右城市份额柱和供需数字	品牌定位、地域份额及供需缺口；三块证据需同口径
+72	97	tc-097	persona-dashboard	4 profile bars;3 persona rows	左年龄/收入/职业/性别结构条，右词云、引语及三类画像	客户构成和购买偏好画像
+73	98	tc-098	feedback-improvement	4 channels;radar;8 brands×5 metrics	左渠道双向条、雷达及负评词云，右品牌指标表及两项改进	客户反馈证据到改进方向
+74	99	tc-099	before-after-system	2 outcomes;2×2 comparison rows;branch diagram	左前后比例及现状/目标表，右新系统逻辑树和改进总结	系统升级建议，薄荷绿核心节点
+75	100	tc-100	before-after-system	2 outcomes;2×2 comparison rows;branch diagram	与74相同，逻辑树首尾节点酒红	74的强调节点变体
+76	101	tc-101	market-strategy	3 tiers×7 years;3 trends;2 approaches	左城市级别堆叠面积及驱动表，右两个增长策略和份额小图	市场层级变化与两条增长路径
+77	102	tc-102	data-to-action	2 input sources;2 processing steps;4 outputs	左需求/供给数据，中采集/预测，右四行动输出	数据驱动决策架构，明确输入到输出
+78	103	tc-103	channel-stage-matrix	2 channels×3 stages	线上/线下两列，潜客/吸收/常客三行，每格标题与动作	分客户阶段的双渠道获客策略
+79	104	tc-104	strategy-operating-model	2 prerequisites;3 operating layers;2 outcomes	左全球化准备，中战略/产品/业务三层，右两项成果	能力条件到运营架构到预期结果
+80	105	tc-105	localization	3 principles;4 culture factors;4 countries	左本地化原则，中四文化因素，右四国地图及适配措施	跨国本地化策略；地图仅定位
+81	106	tc-106	value-chain	3 arrow stages;3 product attributes;1 checklist	上三段产品链箭头，下零售清单及三个产品结构框	产品差异化与门店标准化，薄荷绿强调
+82	107	tc-107	value-chain	3 arrow stages;3 product attributes;1 checklist	与81同结构，上部增加酒红外框，下标题酒红	81的强调框变体
+83	108	tc-108	waterfall	multi-step bridge;1 result;3 actions	左宽瀑布图含负向变动与后期增长，右结果金额及三动作	从基数到结果的多因素贡献；非连续趋势线
+84	109	tc-109	waterfall-table	1 bridge;8 table rows	左成本扩张桥接及影响标注，右业务组当期/同比表	总成本来源与分业务表现衔接
+85	110	tc-110	composition-and-trend	2 periods×4 parts;4 management items	左两列面积块构成，右四管理项与底部趋势线	预算结构调整及管理动作；示例占比需重新核对总和
+86	111	tc-111	allocation-policy	3 threshold bands;4 allocation parts	左上下限/目标区间与行动三栏，右100%资金分配柱和四用途	资本或资源分配政策，酒红目标区间
+87	112	tc-112	allocation-policy	3 threshold bands;4 allocation parts	与86同框架，目标区间改浅粉、右侧布局更紧凑	86的浅色变体
+88	113	tc-113	multiple-trends	4 chart panels	2×2图阵列，上债券堆叠柱、下债务柱，圈出重点年份	四组同类时间序列比较，按上下主题分组
+89	114	tc-114	waterfall-table	1 bridge;9 entities in 3 tables	左利润桥接，右三组各三实体的毛利/净利及同比表	总利润桥接及九实体拆分核对
+90	115	tc-115	strategy-dashboard	3 stages;2-country ranking;2-period comparison;pie	左三阶段环+挑战趋势，右两国排行及中长期组合图	地区业务战略全景；高密度阅读页
+91	116	tc-116	geo-strategy	2-country ranking;3 map locations	左双国排名及趋势/行动表，右世界地图弧线和行动清单	当前挑战与全球配置方向
+92	117	tc-117	product-evolution	3 result charts;3 app images;3-node hub	顶部三结果小图和三手机截图，下方金融服务圆环与旅程说明	数字产品演进及业务协同
+93	118	tc-118	strategy-actions	2 main columns;3 action rows;3 evidence charts	左渠道项目及日期清单，右三行动框配三小图	两条增长策略的举措和佐证
+94	119	tc-119	stage-action-evidence	3 customer stages;3 action rows	左潜客/吸收/常客，中三行动，右数据表/趋势/旅程	按客户阶段匹配动作与证据
+95	120	tc-120	strategy-dashboard	2 projects;3 KPIs;2 outcome sections	左两个商业模式项目和三KPI图，右成果/挑战双区	战略项目进展与成果挑战汇总
+96	121	tc-121	strategy-actions	3 marked themes;2 regions×2 models;3 charts	左主题清单与三个小柱图，右国内/全球分层举措	业务战略按地域和模式展开
+97	122	tc-122	waterfall	2 hero KPIs;7 bridge columns	左净利润和ROE大指标，右利润因素瀑布	财务结果及可加总驱动分解
+98	123	tc-123	financial-table-bridge	3 numeric table columns;multi-step bridge	左财务报表含前期/当期/同比，右分业务下降桥接	报表概览及业务对净利润的贡献
+99	124	tc-124	financial-table-kpi	1 hero KPI;4 drivers;financial table	左大净利指标及四驱动柱，右多行财务报表	净利主结论优先，报表提供完整细节
+100	125	tc-125	shareholder-return	2 KPI groups×2 years;4-year table	左分红/回购双组，右四期柱与回报明细表	股东回报构成与跨年计划
+101	126	tc-126	growth-decomposition	1 hero KPI;6 peers;2 drivers	左EPS指标和同行横条排名，右总增长拆成利润与回购两因子	增长率驱动分解与同业基准
+102	127	tc-127	portfolio-three-panel	3 panels;pie;bars;multi-line	上三列饼图/增长柱/多线趋势，下各配说明框	三条不同证据支持业务组合结论
+103	128	tc-128	metric-pair	2 metrics×3 years;2 action groups	左ROE/ROI上下趋势，右两组对应动作及日期	两关联指标变化与管理动作
+104	129	tc-129	impact-scenarios	3 impact domains;3 country charts	上宏观/市场/客户三列风险，下三个国家情景趋势	政策冲击的多层影响及区域差异
+105	130	tc-130	target-positioning	2 target states;2 initiatives;8 labeled companies	左旧目标到新目标及两地区举措，右公司散点定位	目标调整与同业定位；位置须有一致量纲
+106	131	tc-131	income-dashboard	3 periods×6 parts;3 supporting charts	左收入堆叠柱及倍数，右项目财务趋势与结构小图	收入组成和项目业务增长证据
+107	132	tc-132	progress-initiatives	4 milestones;2 text groups	左向上箭头四年利润率节点，右已完成/未来举措	阶段进展和下一步，酒红标签
+108	133	tc-133	progress-initiatives	4 milestones;2 text groups	与107同结构，图表和标签薄荷绿	107的颜色变体
+109	134	tc-134	progress-initiatives	3 annual bars;2 text groups	左三年收入柱，右已完成/未来举措	业绩增长与后续举措，酒红版
+110	135	tc-135	progress-initiatives	3 annual bars;2 text groups	与109同结构，柱轮廓和标签薄荷绿	109的颜色变体
+111	136	tc-136	phased-roadmap	3 eras	上升斜线下分前期/中期/远期，底部对应行动	中长期规划定位；斜线是示意而非实测增长
+112	137	tc-137	capital-efficiency	3 segments;4 bubbles;12-year row	左三业务属性，右资本/ROE气泡，下年度ROE表	资本效率与业务组合比较，气泡尺寸需定义
+113	138	tc-138	metric-plus-bridge	3 years×2 metrics;7 bridge columns	左收入/费用配对柱及增长，右净利润瀑布	趋势和利润因素桥接，灰绿配色
+114	139	tc-139	metric-plus-bridge	3 years×2 metrics;7 bridge columns	与113相同，左最后年份费用柱酒红突出	113的末期强调变体
+115	140	tc-140	policy-comparison	2 trend charts;3 option columns	左长周期堆叠面积+比例趋势，右旧制两类与新制政策表	制度演变及条件比较，酒红新制表头
+116	141	tc-141	policy-comparison	2 trend charts;3 option columns	与115同结构，新制列浅色、区域配色调整	115的浅色变体
+117	142	tc-142	asset-dashboard	8 total bars;5 asset types;3 product columns	左历史预测及收益示意，右资产环/表和产品列表	资产管理规模、结构和产品组合
+118	143	tc-143	business-outlook	8 periods;2 small comparisons;3 actions	左收入堆叠趋势和两个市场小柱，右三业务展望及三优先动作	业务计划与外部环境衔接
+119	144	tc-144	partnership-dashboard	3 top partnerships;2 bottom models	上三合作对象各有柱图/路线，下两种客户协作架构	多个合作项目进展及协作模式
+120	145	tc-145	benchmark-radar	5 entities;2 radar series	左五公司趋势线，右双期五维雷达及周围解释	同业表现和能力提升，雷达各轴须同向可比
+121	146	tc-146	operating-model-results	3 inputs;2 outputs;2 charts	左原料到产出的业务模型，右收入堆叠与资金利差折线	运营模型和财务结果关系
+122	147	tc-147	forecast-composition	5 actual periods;2 forecast columns;4 components	左实际收入堆叠柱，右远期目标浅柱及增长假设	中期收入结构到远期目标，区分预测与实际
+123	148	tc-148	allocation-policy	3 product columns;4 allocation parts	左合作关系+产品清单，右资本分配堆叠柱及用途	产品供给组合与资源配置
+124	149	tc-149	growth-and-segments	3 growth stages;3 segment rows	左长周期曲线和阶段箭头，右三业务属性框	增长历程及现有业务划分
+125	150	tc-150	cohort-forecast	3 periods;12 age bands	左三年份并列年龄层横条，右产品渠道举措	人口/客户年龄结构未来变化；分组口径跨期一致
+126	151	tc-151	customer-service-profile	2 service roles;4 profile bars;5 radar axes	左两服务角色互联，右客户构成横条及五维雷达	服务分工与目标客户需求匹配
+127	152	tc-152	service-operating-model	4 supporting parties;6 service types;4 periods	左总部/支持/集团/外部协同到顾问与六服务，右项目案例与净流入柱	服务运营架构及结果佐证
+128	153	tc-153	strategy-horizon	2 horizons×3 strategies;4 model cells;3 paired years	左短长期策略与2×2模式，右三年双柱及主题说明	服务战略与业绩变化
+129	154	tc-154	digital-efficiency	2 enablers;2 efficiency KPIs;2 dates	左People×Digital及三年柱，右自动记录改进表和两节点时间线	数字化措施、效率效果及实施历程
+130	155	tc-155	timeline	8 events;3 year labels	横向时间轴，上下交替八事件文字，绿色标题和年份	科技/项目里程碑，密集日期长文字
+131	156	tc-156	timeline	8 events;3 year labels	与130完全同框架，事件标题和年份酒红	130的强调色变体
+132	157	tc-157	strategy-operating-model	3 capability layers;5 impacts	左总主题，中Automation/Practice/Multimodal三层，右五业务影响	技术趋势如何影响业务
+133	158	tc-158	principles-actions	6 principles;6 actions	上六原则排两行，下2×3改进动作框	治理原则与六项落实措施
+134	159	tc-159	category-method-matrix	2 categories×3 aspects×3 methods	上下两类，各三方面×三方法打勾，右适用业务	两类规则/方法适用性矩阵；源文标签重复须重写
+135	160	tc-160	governance	2 bodies;4 functional areas	左右委员会与团队职责，底部四职能说明	治理与执行分工，不是组织层级树
+136	161	tc-161	target-actual	4 KPIs×2 periods;9 peer bars	左四指标目标/实际表，右九主体横向排列柱	目标兑现及同业比较
+137	162	tc-162	target-actions	6 periods;3 measures	左六年柱含目标终点，右三措施框	人员结构/比例目标及实施措施
+138	163	tc-163	profit-cost-structure	4 revenue parts;4 cost parts	左右各四项占比和说明，中间利润驱动图标	收入与成本结构的对照；两侧分别合计100%
+139	164	tc-164	valuation-components	2 yield curves;3 bridge columns	左两个市场双期收益曲线，中无风险利率+溢价，右三柱桥接和说明	估值基础的组成及跨期利率变化
+140	165	tc-165	risk-adjustment	5 donut parts;3 process rows;3 bridge columns	左风险调整环和三方法行，右公司风险边际桥接及词云	风险调整口径对账；不是风险热力矩阵
+141	166	tc-166	target-actual	4 KPI rows;old/new targets	左四行旧目标对新目标，右三解释节点	目标修订说明；可替换为前后口径
+142	167	tc-167	comparison-table	3 businesses×3 dimensions	三业务列×盈利波动/利率影响/盈利水平行	不同业务对同一风险因子的暴露差异
+143	168	tc-168	capability-goals	2 capabilities;3 goals	左背景，中两项能力加图标，右三目标卡	能力优势如何支撑目标
+144	169	tc-169	balance-trends	2 balance panels×3 entities;2 trend charts	左两组资产/负债双向条，右两个业务的资产负债趋势	资产负债匹配与跨期变化；数轴需可比较
+145	170	tc-170	composition-comparison	3 total parts;6 countries×3 parts	左整体构成环，右六国100%堆叠横条及总额	总构成和区域结构差异
+146	171	tc-171	trend-with-table	2 annual stacks;8 quarters;6 table rows	左两年收入构成和季度曲线，右六指标前后值及增幅	跨年度业绩和关键驱动指标
+147	172	tc-172	metric-pair	2 metrics×4 periods;2 latest rates	左价格与数量双行柱和最新变化，右四组解释	价格/销量或其他双指标的变化
+148	173	tc-173	trend-to-impact	6 annual bars;4 impacts	左六年增长柱，右四项影响横条	增长成果引出的四类经营影响
+149	174	tc-174	venn-three	3 overlapping circles;3 explanatory groups	中央三圆交叠，左引语/产品发布，右服务/市场说明	三因素交叉协同；不能自动表示准确集合大小
+150	175	tc-175	parallel-list	5 rows	左五主题标签，中五解释段落，右大装饰圆图标	五项行业趋势，重文字轻数据
+151	176	tc-176	scoring-framework	10-point scale;3 performance bands;3 actions	左评分尺和三级团队标准，右三改进手段	评价体系说明；分数标准必须用户定义
+152	177	tc-177	comparison-table	4 aspects;competitors;program count;priorities	四行方面，列含竞争主体/项目数/优先项	竞争优势行动矩阵，酒红表头
+153	178	tc-178	comparison-table	4 aspects;competitors;program count;priorities	与152同结构，表头和计数薄荷绿	152的颜色变体
+154	179	tc-179	parallel-cards	5 columns	五个资产类型图标和文字列，底部总括横条	五类产品组合及各自作用
+155	180	tc-180	timeline	5 years;7 event cards	五个年份竖列，两年含上下两张事件卡，其余一张	按年度分组的行业趋势路线图
+156	181	tc-181	trend-actions	8 quarters;4 actions	左单曲线标记低点高点，右四编号举措，下总结条	趋势转折及响应举措
+157	182	tc-182	action-outcome	2 rows	每行措施名称、详细动作、箭头、量化结果三段	两项措施与成效对应；结果需有验证依据
+158	183	tc-183	evidence-columns	4 aspects	四列新闻剪报、截图/图表和短摘要	多来源证据汇编；需真实来源和可读截图
+159	184	tc-184	insight-four-drivers	1 hero statement;4 themes	左大引语主结论，右2×2四趋势文字	一个关键判断由四个趋势展开
+160	185	tc-185	strategy-performance	3 KPIs;3 linked pillars;4 outlook blocks	左财务三指标和里程碑，右三环策略及四块预测	业绩、战略及展望的管理摘要
+161	186	tc-186	governance-results	1 alliance diagram;4 steps;2 themes	左合作架构、四行动和柱图，右两个重点及结论框	协作模式与竞争行动成效
+162	187	tc-187	fund-comparison	3 funds×2 periods;3-part donuts	三行基金，每行两期规模柱、构成环及描述	三对象的规模增长和结构比较
+163	188	tc-188	keyword-kpi	6 keyword circles;3 KPI rows	左六个不同大小关键词圆，右三说明框和大数	优先主题与三指标；圆大小仅装饰或定性强调
+164	189	tc-189	kpi-and-dual-trend	3 KPI rows;2 metrics×4 periods	左三大指标及描述，右价格/成本双趋势	年度概览和两个驱动指标
+165	190	tc-190	evidence-columns	4 aspects	四纵列分别双柱、嵌套圆、概念图标环、多年柱	四方面证据组合；各列信息类型不同
+166	191	tc-191	customer-model-comparison	2 linked journeys;2 entities×2 dimensions	左教育/品牌两层客户链，右自家/竞争对手的教育与定价比较	客户经营模式差异及价值主张
+167	192	tc-192	competitive-landscape	3 size tiers;4 brands×4 criteria;3 profiles	左三级倒梯形及品牌、下四品牌评分，右三品牌优劣	行业集中度、能力比较与竞争定位
+168	193	tc-193	planning-comparison	2 approaches	左右目标×时间示意，对比渐进应对与目标驱动规划	两种方法论比较；曲线不是实际时间序列
+169	194	tc-194	product-portfolio	6 SKUs;2 categories;2 six-part donuts	左六SKU库存/推荐表，右收入与利润组成环	SKU优化；两个份额口径分别计算
+170	195	tc-195	mixed-dashboard	3 KPIs;2 lines;7 bars;3 themes	左三指标和双曲线，右七期柱与三主题文字	多指标运营摘要
+171	196	tc-196	process-performance	8 person icons;5 bars;branch workflow	左人员图标比例和五期柱，右理赔分支流程及两方法行	工作覆盖/绩效与处理机制；人数图标比例需重算
+172	197	tc-197	segmented-ranking	4 segments×5 categories	横排四个客群各有五类水平条，重点条酒红	不同客群的产品偏好排序；统一尺度
+173	198	tc-198	strategy-matrix	2 strategies×2 layers	右两策略列分别上文字下柱/环，左两层主题行	增长与盈利两个策略的动作和结果
+174	199	tc-199	evidence-process-outcome	3 process rows;3 outputs	左趋势与主题，中三分析步骤，右三输出框	证据到处理环节到业务模型
+175	200	tc-200	regional-overview	1 Australia map;5 KPI rows	左澳洲地图地点/批注，右五图标大指标	单一国家业务布局和指标
+176	201	tc-201	geo-organization	3 regional clusters;multiple company boxes	中央澳洲地图，左右三地区框内列公司与业务	区域公司/业务覆盖；不表示跨区流量
+177	202	tc-202	geo-performance	5-part donut;6 bars;5 regions	上构成环和业绩柱，下五地区地图及金额	市场驱动与各地项目成果
+178	203	tc-203	capacity-allocation	2 vertical gauges;3 radial metrics;6 groups	左资源占比与三变化率，右六专家组及进度小环	团队配置转移与职能优先级
+179	204	tc-204	trend-actions	7 line series;7 labels;6 actions	左多线图，中七系列解释，右六行动列表	多指标走势及对应行动；过多交叉时拆页
+180	205	tc-205	composition-trends	4 area components;6 stacked periods	左月度堆叠面积，右年度多层柱，下各解释	组成随时间变化，两图时间粒度不同要注明
+181	206	tc-206	driver-attribution	4 measures;7 highlighted points	左四措施占比，中曲线七标记点，右逐点归因到措施字母	解释波动点及相关措施；不能无证据做因果归因
+182	207	tc-207	quarterly-trends	4 series;12 months;4 quarter bands	全宽四线月度曲线，季度背景分区，三关键点注释	全年季节性/季度变化与关键事件
+183	208	tc-208	growth-curve	1 gauge;4 curves	左竖向完成度示意，右四条增长曲线及范围括号	阶段状态与不同增长路径；定量/定性需明确
+184	209	tc-209	trend-with-table	4 curves;5 table rows;2 actions	左四线及三个关键点，右指标表和两行动框	趋势与明细数值并列
+185	210	tc-210	market-share	6 donut parts;4 commentary groups	中央六分环带总规模，周围四组品牌logo和说明	市场份额与竞争者类别；logo数可替换
+186	211	tc-211	bubble-map	8 bubbles;3 size classes;2 highlighted zones	全页气泡二维坐标，大小图例、两个区域框和注释	三维指标定位；x/y/size三量必须定义
+187	212	tc-212	bubble-map	8 bubbles;3 size classes;2 highlighted zones	与186同结构，部分中文使用提示与指向注释	186的说明性变体，非独立新框架
+188	213	tc-213	driver-tree	3 columns;5 mini-charts	左核心指标，中一级两图，右二级两图，连接线展示依赖	指标驱动树；分解关系需业务公式支持
+189	214	tc-214	kpi-actions-ranking	1 KPI;4 actions;5 bars	左关键比例与四编号动作，右五项柱及图标	核心指标与五类对象表现
+190	215	tc-215	matrix-and-kpi	3×3 matrix;3 KPIs;2 impact columns	左九宫格选中两格，右三指标及两类影响/技能	分层定位与摘要；矩阵轴和阈值须定义
+191	216	tc-216	stacked-growth-observations	4 periods;3 components;2 observation groups	左四期堆叠柱，右观察及服务方案框	增长构成变化与经营启示
+192	217	tc-217	cost-comparison	11 products;5 cost components	横向堆叠成本条比较产品与旧新成本，连接线/圈数突出节省，右侧优先事项	成本结构与降本机会；核实币种和成本口径
+193	218	tc-218	growth-driver-table	4 metric columns;2 size years;2 CAGR groups	顶部增长方向长箭头；四指标列按规模、增长、驱动、来源分行	市场驱动与规模对照；不同指标不可直接加总
+194	219	tc-219	input-output-feedback	2 sources;6 outputs;2 results	左电脑/门店双来源与中部六项输出双向箭头，右两项成果	数据采集、分析回传与业务结果
+195	220	tc-220	additive-evidence	2 charts×4 bars;3 KPIs	左两个四柱图以加号相连，右三大数字及优先事项	两组可加总证据与结果；无加法关系则去加号
+196	221	tc-221	branched-process	2 branches;3 stages each	共同触发后分为Channel A/B，各经三阶段，附上下说明框	同一入口下两条并行路径
+197	222	tc-222	mode-comparison	2 modes;3 rows each;3 description columns	左输入措施至预测模块；右人/AI两组对照表，酒红标题	两种运行方式、条件与利弊对比
+198	223	tc-223	mode-comparison	2 modes;3 rows each;3 description columns	222同结构，浅绿色标题与图标	222配色变体
+199	224	tc-224	benefits-results	6 benefits;3 paired KPIs	左中心数据资产及六个辐射利益点，右三组前后数值	能力建设与量化结果；关联不自动等于因果
+200	225	tc-225	phased-roadmap	3 phases;6 milestones	上方量到质楔形，三阶段箭头，六日期节点，下方活动与总结	项目阶段与里程碑；横距默认示意
+201	226	tc-226	business-comparison	2 entities;2 overlapping concepts each;2 conclusions	左右业务各有环境/优势交叠椭圆，下接结论	两个业务适配条件与优势；交叠不是精确集合面积
+202	227	tc-227	geo-performance	3 focus regions;3 marker types	世界地图含北美/亚洲中国/澳大利亚重点框，三大区域数值及地点图例	全球布局与区域表现；需真实地点及区域口径
+203	301	tc-301	illustration-assets	4 rows of multiple illustrations	商务人物、咨询、金融、团队协作插画合集，底来源声明	插画装饰素材；保留源授权信息并按实际用途复核
+204	302	tc-302	map-assets	1 world map	满页世界各国家轮廓分区，浅灰底	世界地图素材；实际编辑性尚未验证
+205	303	tc-303	map-assets	1 country map;1 pin;3 fact labels	中国分区地图，首都位置针，左大陆/首都/语言资料	中国地域素材；示例事实不可自动视为当前权威资料
+206	304	tc-304	map-assets	2 country maps;2 pins;3 fact labels each	澳大利亚与巴西左右并列地域图	澳大利亚/巴西素材，各一图
+207	305	tc-305	map-assets	2 country maps;2 pins;3 fact labels each	加拿大与法国左右并列地域图	加拿大/法国素材
+208	306	tc-306	map-assets	2 country maps;2 pins;3 fact labels each	德国与印度左右并列地域图	德国/印度素材
+209	307	tc-307	map-assets	2 country maps;2 pins;3 fact labels each	意大利与日本左右并列地域图	意大利/日本素材
+210	308	tc-308	map-assets	2 country maps;2 pins;3 fact labels each	墨西哥与韩国左右并列地域图	墨西哥/韩国素材
+211	309	tc-309	map-assets	2 country maps;2 pins;3 fact labels each	西班牙与英国左右并列地域图	西班牙/英国素材
+212	310	tc-310	map-assets	1 country map;1 pin;3 fact labels	俄罗斯大地图及大陆/首都/语言资料	俄罗斯地域素材
+213	311	tc-311	map-assets	1 country map;1 pin;3 fact labels	美国各州地图及大陆/首都/语言资料	美国地域素材

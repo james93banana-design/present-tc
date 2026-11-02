@@ -1,0 +1,4 @@
+# Python >= 3.9 is required for the optional validation scripts.
+# The validation scripts and unit tests use only the Python standard library.
+# No third-party Python packages are required or installed by this file.
+# Presentation creation/rendering tools are optional and supplied by the host.

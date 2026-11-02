@@ -1,0 +1,2 @@
+
+(()=>{const sections=[...document.querySelectorAll('.brief-section')];sections.forEach((section,i)=>{if(!section.querySelector(':scope > .tc-shell-page-number')){const n=document.createElement('div');n.className='tc-shell-page-number';n.textContent=(i+1)+' / '+sections.length;section.append(n);}});const clock=document.createElement('div');clock.id='presentation-countdown';clock.setAttribute('role','timer');clock.hidden=true;document.body.append(clock);})();

@@ -1,0 +1,16 @@
+
+html:not([data-language="en"]) .has-tc-content>:not(.tc-content-host){display:none!important}
+html[data-language="en"] .tc-content-host{display:none!important}
+html[data-language="en"] .tc-legacy-content{display:contents}
+html:not([data-language="en"]) .brief-section.has-tc-content{display:block!important;position:relative!important;width:100%!important;height:auto!important;min-height:0!important;margin:24px 0!important;padding:0!important;border:0!important;overflow:hidden!important;background:white;box-sizing:border-box}
+html:not([data-language="en"]) .brief-section.has-tc-content[hidden]{display:none!important}
+.tc-content-host{display:block;position:relative;width:100%;aspect-ratio:16/9;overflow:hidden}
+html:not([data-language="en"]) body.presentation .brief-section.has-tc-content,
+html:not([data-language="en"]) body.presentation #cover.report-cover{position:absolute!important;left:50%!important;top:50%!important;width:1280px!important;height:720px!important;min-height:0!important;margin:0!important;padding:0!important;border:0!important;transform:translate(-50%,-50%) scale(var(--slide-scale,1))!important;transform-origin:center center!important}
+html:not([data-language="en"]) body.presentation main{height:100%!important;background:#e6ebf2}
+html:not([data-language="en"]) #cover.report-cover{min-height:0!important}
+html:not([data-language="en"]) #cover .report-cover-art{aspect-ratio:16/9!important;height:auto!important}
+html:not([data-language="en"]) body.presentation #cover .report-cover-art{height:720px!important}
+body.presentation .present-tools{opacity:0;transition:opacity .15s;background:rgba(255,255,255,.94)}
+body.presentation .present-tools:hover,body.presentation .present-tools:focus-within,body.presentation.controls-visible .present-tools{opacity:1}
+@media print{html:not([data-language="en"]) .brief-section.has-tc-content{width:1280px!important;height:720px!important;margin:0!important;break-after:page}html:not([data-language="en"]) .tc-content-host{width:1280px!important;height:720px!important}html:not([data-language="en"]) main{padding:0!important;max-width:none!important}html:not([data-language="en"]) .tc-legacy-content{display:none!important}@page{size:13.333333in 7.5in;margin:0}}
