@@ -1,7 +1,7 @@
 interface:
   display_name: "Present-TC"
   short_description: "制作固定16:9 HTML与可编辑PPT，统一层级、模板选型、布局编辑及持续计时"
-  brand_color: "#0152D9"
+  brand_color: "#0052D9"
   default_prompt: "Use $present-tc to create or update this HTML report or editable PowerPoint presentation. Preserve existing content and style, use evidence-led layouts, and verify the requested deliverables."
 
 policy:

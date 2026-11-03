@@ -1,0 +1,13 @@
+/* Generated from report-tokens.json; override once on the report root. */
+:root{
+  --tc-primary:#0052D9;
+  --tc-text:#53585F;
+  --tc-text-secondary:#53585F;
+  --tc-muted:#97A4AD;
+  --tc-border:#D7D7D6;
+  --tc-surface-muted:#D7D7D6;
+  --tc-page:#FFFFFF;
+  --tc-surface:#FFFFFF;
+  --tc-black:#000000;
+  --tc-timer-warning:#C00000;
+}

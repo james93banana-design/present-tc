@@ -48,5 +48,47 @@
     "warningGapPercentagePoints": 15,
     "pulseSeconds": 1.8,
     "whitePageBackground": "rgba(255,255,255,.94)"
+  },
+  "colors": {
+    "primary": "#0052D9",
+    "text": "#53585F",
+    "textSecondary": "#53585F",
+    "muted": "#97A4AD",
+    "border": "#D7D7D6",
+    "surfaceMuted": "#D7D7D6",
+    "page": "#FFFFFF",
+    "surface": "#FFFFFF",
+    "black": "#000000"
+  },
+  "colorPolicy": {
+    "source": "User-supplied company palette image, narrowed by user on 2026-11-03; use printed HEX/RGB, not screenshot pixels.",
+    "primaryRoles": [
+      "primary",
+      "text"
+    ],
+    "fixedSupportingRoles": [
+      "muted",
+      "border",
+      "black",
+      "surface"
+    ],
+    "chartSeries": [
+      "primary",
+      "text",
+      "muted",
+      "border"
+    ],
+    "templateColorsAreNotReportTheme": true,
+    "auxiliaryColors": {
+      "mode": "model-discretion-per-report",
+      "fixedColors": [],
+      "guidance": "Prefer 1–2 restrained accent colors only when content needs them; define roles once and reuse across HTML/PPT. No preset cyan/lime/orange; no automatic rainbow per page."
+    },
+    "functionalColorScope": {
+      "timerWarning": "Existing countdown overdue/behind-schedule warning only; not a company palette color."
+    }
+  },
+  "functionalColors": {
+    "timerWarning": "#C00000"
   }
 }

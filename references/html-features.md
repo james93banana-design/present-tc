@@ -22,7 +22,7 @@
 
 `assets/html/module-layout-editor.js`、`content-modules.js`、`countdown.js`、`page-numbers.js`及同目录CSS来自已验证的汇报实现，包含特定DOM约定；不是自动安装器。
 
-接入顺序：定义字体和壳层 → 构建页面内容 → 创建Shadow DOM内容模块 → 语言/投屏控制器 → 编辑器 → 页码与计时器节点 → 计时逻辑。通用页面节点为`.brief-section`，封面id为cover；壳层含aside/main、layout-edit-toggle、sidebar-present、present-tools、presentation-minutes；body.presentation表示投屏。语言在html的data-language中，中文内容适配器为`.tc-content-host[data-page-id]`，每个host包含template，Shadow DOM中有#canvas/.slide/.title/.claim/.body/.box；共享样式template id为tc-page-style。
+接入顺序：内嵌 `assets/html/palette.css` 并统一覆盖已确认主题 → 定义字体和壳层 → 构建页面内容 → 创建Shadow DOM内容模块 → 语言/投屏控制器 → 编辑器 → 页码与计时器节点 → 计时逻辑。通用页面节点为`.brief-section`，封面id为cover；壳层含aside/main、layout-edit-toggle、sidebar-present、present-tools、presentation-minutes；body.presentation表示投屏。语言在html的data-language中，中文内容适配器为`.tc-content-host[data-page-id]`，每个host包含template，Shadow DOM中有#canvas/.slide/.title/.claim/.body/.box；共享样式template id为tc-page-style。
 
 对不同报告先适配这些选择器、语言回调和页序；把项目名、年份、文件名、草稿键作为文档配置，不复制业务内容。当前参考编辑器支持中文内容模块，封面和英文视图不自动可编辑；需要时分别实现适配器。不要把当前范围描述成全页面元素编辑。
 

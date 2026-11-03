@@ -8,9 +8,10 @@ import sys
 import zipfile
 from xml.etree import ElementTree as ET
 from pathlib import Path
+from sync_palette import check as check_palette
 
 ROOT = Path(__file__).resolve().parents[1]
-IGNORED = {".git", "__pycache__", ".venv", "outputs", ".qa", "dist"}
+IGNORED = {".git", "__pycache__", ".venv", "outputs", ".qa", "dist", "local-work"}
 ALLOWED_SUFFIXES = {".md", ".py", ".yaml", ".yml", ".txt", ".js", ".css", ".json"}
 REQUIRED = (
     "SKILL.md", "README.md", "agents/openai.yaml", "requirements.txt",
@@ -23,6 +24,7 @@ REQUIRED = (
     "assets/html/content-modules.js", "assets/html/countdown.js",
     "assets/html/module-layout-editor.js", "assets/html/page-numbers.js",
     "assets/html/countdown.css", "assets/html/editor.css", "assets/html/shell.css",
+    "assets/html/palette.css", "scripts/sync_palette.py",
     "references/html-features.md", "references/layout-contract.md",
     "assets/present-tc/selection-guide.md", "assets/present-tc/templates.json",
     "assets/present-tc/page-mapping.csv",
@@ -137,6 +139,10 @@ def validate(root, release=False):
         if re.search(r"gh[pousr]_[A-Za-z0-9]{30,}", text):
             errors.append("Possible credential detected (value withheld): " + relative.as_posix())
     errors.extend(validate_bundle(root))
+    try:
+        errors.extend(check_palette(root))
+    except (OSError, ValueError, KeyError, TypeError) as exc:
+        errors.append("Palette validation failed: " + str(exc))
     if release and (not (root / "LICENSE").is_file() or not (root / "LICENSE").read_text(encoding="utf-8").strip()):
         errors.append("Release blocked: choose an approved license and add complete LICENSE text")
     return errors, count
