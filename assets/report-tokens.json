@@ -22,8 +22,9 @@
     "title": 44,
     "takeaway": 32,
     "moduleTitle": 28,
-    "body": 22,
-    "table": 20,
+    "body": 20,
+    "bodyDense": 18,
+    "table": 18,
     "regular": "TencentSans W3",
     "bold": "TencentSans W7"
   },
