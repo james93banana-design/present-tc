@@ -23,6 +23,7 @@ REQUIRED = (
     "scripts/check_public.py", "assets/report-tokens.json",
     "assets/html/content-modules.js", "assets/html/countdown.js",
     "assets/html/module-layout-editor.js", "assets/html/page-numbers.js",
+    "assets/html/presentation-return.js",
     "assets/html/countdown.css", "assets/html/editor.css", "assets/html/shell.css",
     "assets/html/palette.css", "scripts/sync_palette.py",
     "references/html-features.md", "references/layout-contract.md",

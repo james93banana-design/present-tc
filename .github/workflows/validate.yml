@@ -23,5 +23,11 @@ jobs:
         run: python3 scripts/validate_repo.py
       - name: Test read-only delivery checks
         run: python3 -m unittest discover -s tests -v
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Test presentation return scheduling
+        run: node --test tests/test_presentation_return.js
       - name: Check isolated public source tree
         run: python3 scripts/check_public.py
