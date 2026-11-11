@@ -4,14 +4,14 @@
 .tc-slide{font-family:PresentTCTencent,sans-serif;font-weight:400;font-synthesis:none}
 .tc-slide[data-language="en"],.tc-slide [lang="en"]{font-family:Arial,sans-serif}
 .tc-slide strong,.tc-slide b{font-weight:700}
-.tc-slide .tc-title{font-size:44px;line-height:1.2;font-weight:700;margin:0;letter-spacing:normal}
-.tc-slide[data-language="en"] .tc-title{font-size:42px;line-height:1.2}
-.tc-slide .tc-takeaway{font-size:32px;line-height:1.3;font-weight:700;margin:0;letter-spacing:normal}
-.tc-slide[data-language="en"] .tc-takeaway{font-size:30px;line-height:1.3}
+.tc-slide .tc-title{font-size:43px;line-height:1.2;font-weight:700;margin:0;letter-spacing:normal}
+.tc-slide[data-language="en"] .tc-title{font-size:41px;line-height:1.2}
+.tc-slide .tc-takeaway{font-size:31px;line-height:1.3;font-weight:700;margin:0;letter-spacing:normal}
+.tc-slide[data-language="en"] .tc-takeaway{font-size:29px;line-height:1.3}
 .tc-slide .tc-module-title{font-size:28px;line-height:1.25;font-weight:700;margin:0;letter-spacing:normal}
 .tc-slide[data-language="en"] .tc-module-title{font-size:28px;line-height:1.25}
-.tc-slide .tc-body{font-size:20px;line-height:1.4;font-weight:400;margin:0;letter-spacing:normal}
-.tc-slide[data-language="en"] .tc-body{font-size:20px;line-height:1.4}
+.tc-slide .tc-body{font-size:18px;line-height:1.4;font-weight:400;margin:0;letter-spacing:normal}
+.tc-slide[data-language="en"] .tc-body{font-size:18px;line-height:1.4}
 .tc-slide .tc-table{font-size:18px;line-height:1.4;font-weight:400;margin:0;letter-spacing:normal}
 .tc-slide[data-language="en"] .tc-table{font-size:18px;line-height:1.4}
 .tc-slide .tc-caption{font-size:16px;line-height:1.4;font-weight:400;margin:0;letter-spacing:normal}
@@ -23,4 +23,4 @@
 .tc-slide[data-language="en"] .tc-title{letter-spacing:-.6px}
 
 /* Optional dense body text on the fixed HTML canvas. */
-.tc-slide .tc-body.tc-body-dense{font-size:18px}
+.tc-slide .tc-body.tc-body-dense{font-size:16px}

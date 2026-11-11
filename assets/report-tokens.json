@@ -19,20 +19,20 @@
     }
   },
   "html": {
-    "title": 44,
-    "takeaway": 32,
+    "title": 43,
+    "takeaway": 31,
     "moduleTitle": 28,
-    "body": 20,
-    "bodyDense": 18,
+    "body": 18,
+    "bodyDense": 16,
     "table": 18,
     "regular": "TencentSans W3",
     "bold": "TencentSans W7"
   },
   "pptx": {
-    "title": 28,
-    "takeaway": 20,
+    "title": 27,
+    "takeaway": 19,
     "moduleTitle": 16,
-    "body": 14,
+    "body": 12,
     "table": 12,
     "regular": "TencentSans W3",
     "bold": "TencentSans W7",

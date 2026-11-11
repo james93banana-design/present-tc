@@ -45,15 +45,15 @@
   },
   "roles": {
     "title": {
-      "zh_px": 44,
-      "en_px": 42,
+      "zh_px": 43,
+      "en_px": 41,
       "zh_line_height": 1.2,
       "en_line_height": 1.2,
       "weight": 700
     },
     "takeaway": {
-      "zh_px": 32,
-      "en_px": 30,
+      "zh_px": 31,
+      "en_px": 29,
       "zh_line_height": 1.3,
       "en_line_height": 1.3,
       "weight": 700
@@ -66,15 +66,15 @@
       "weight": 700
     },
     "body": {
-      "zh_px": 22,
-      "en_px": 22,
+      "zh_px": 18,
+      "en_px": 18,
       "zh_line_height": 1.4,
       "en_line_height": 1.4,
       "weight": 400
     },
     "table": {
-      "zh_px": 20,
-      "en_px": 19,
+      "zh_px": 18,
+      "en_px": 18,
       "zh_line_height": 1.4,
       "en_line_height": 1.4,
       "weight": 400
@@ -101,6 +101,14 @@
       "weight": 700,
       "optional": true,
       "usage": "Only meaningful sequence or enumeration, not mandatory decoration"
+    },
+    "body_dense": {
+      "zh_px": 16,
+      "en_px": 16,
+      "zh_line_height": 1.4,
+      "en_line_height": 1.4,
+      "weight": 400,
+      "optional": true
     }
   },
   "css": "assets/typography.css",
@@ -138,20 +146,20 @@
         "step_number": 72
       },
       "authoring_defaults_pt": {
-        "title": 28,
-        "takeaway": 20,
+        "title": 27,
+        "takeaway": 19,
         "module_title": 16,
-        "body": 14,
+        "body": 12,
         "table": 12,
         "caption": 10,
         "step_number_optional": 72
       },
-      "defaults_note": "User-confirmed defaults: title 28pt, takeaway 20pt, module title 16pt, body primarily 14pt. Table/caption/optional numerals remain specialized roles, not general body defaults. Source slides may vary.",
+      "defaults_note": "Current authoring defaults: title 27pt, takeaway 19pt, module title 16pt, body 12pt. Table remains 12pt; caption and optional numerals are unchanged. Observed source-slide values are historical evidence, not current defaults.",
       "user_confirmed_roles_pt": {
-        "title": 28,
-        "takeaway": 20,
+        "title": 27,
+        "takeaway": 19,
         "module_title": 16,
-        "body": 14
+        "body": 12
       }
     }
   }
